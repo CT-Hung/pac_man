@@ -15,7 +15,7 @@
 #X floatatom 107 168 5 0 0 0 - - - 0;
 #X obj 213 56 inlet;
 #X obj 173 121 \$1;
-#X obj 298 122 0;
+#X obj 298 122 0.5;
 #X connect 0 0 2 0;
 #X connect 1 0 5 0;
 #X connect 2 0 3 0;
